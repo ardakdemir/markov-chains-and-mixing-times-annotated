@@ -1,6 +1,6 @@
 # Markov Chains And Mixing Times Annotated
 
-MCMT book re-written in jupyter notebooks with relevant code to simulate the concepts.
+[MCMT book](https://pages.uoregon.edu/dlevin/MARKOV/mcmt2e.pdf) re-written in jupyter notebooks with relevant code to simulate the concepts.
 
 My goal is two-folds:
 
