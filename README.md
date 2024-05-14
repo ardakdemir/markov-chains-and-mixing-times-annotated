@@ -8,3 +8,4 @@ My goal is two-folds:
 
 - Annotate each chapter with simulations to make the material more interactive and visually appealing. 
 
+Main folder is the [lecture_notes](lecture_notes) folder.
